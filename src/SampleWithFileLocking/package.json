@@ -1,0 +1,25 @@
+{
+  "name": "holder",
+  "version": "0.0.0",
+  "devDependencies": {
+    "gulp": "3.8.11",
+    "gulp-concat": "2.5.2",
+    "gulp-cssmin": "0.1.7",
+    "gulp-uglify": "1.2.0",
+    "rimraf": "2.2.8"
+  },
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-concat": "^2.5.2",
+    "gulp": "^3.8.11",
+    "gulp-uglify": "^1.2.0",
+    "gulp-cssmin": "^0.1.7",
+    "rimraf": "^2.2.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

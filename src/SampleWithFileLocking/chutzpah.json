@@ -1,0 +1,15 @@
+﻿{
+  "EnableCodeCoverage": "false",
+  "Framework": "jasmine",
+  "Compile": {
+    "Mode": "External"
+  },
+  "References": [
+  ],
+  "Tests": [
+    {
+      "Path": "dist-output",
+      "Includes": [ "*.spec.js" ]
+    }
+  ]
+}
